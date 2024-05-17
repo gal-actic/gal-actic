@@ -1,4 +1,4 @@
-- 👋 Hi, I’m known as Vaishnavi Singh in common but known as @gal-actic here 
+- 👋 Hi, I’m Vaishnavi Singh but known as @gal-actic here 
 - 👀 I’m interested in ML
 - 🌱 I’m currently learning JS, React and Adv Topics in ML
 - 💞️ I’m looking to collaborate on making websites
